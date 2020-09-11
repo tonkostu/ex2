@@ -1,0 +1,10 @@
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\bin\Debug\sample game.exe.config
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\bin\Debug\sample game.exe
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\bin\Debug\sample game.pdb
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\obj\Debug\sample game.csprojAssemblyReference.cache
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\obj\Debug\sample_game.MatchingGame.resources
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\obj\Debug\sample_game.Properties.Resources.resources
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\obj\Debug\sample game.csproj.GenerateResource.cache
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\obj\Debug\sample game.csproj.CoreCompileInputs.cache
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\obj\Debug\sample game.exe
+C:\Users\白石　惣之助\Source\Repos\tonkostu\ex\sample game\obj\Debug\sample game.pdb
